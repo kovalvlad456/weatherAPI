@@ -87,6 +87,7 @@ h1 {
 
 .app .bottom {
   position:absolute;
+  bottom: 100px;
   display: flex;
   justify-content: space-evenly;
   text-align: center;
